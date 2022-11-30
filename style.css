@@ -1,0 +1,13 @@
+body {
+    background-image: url("./crop.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 20px;
+    padding: 10px;;
+}
+
+h1, .para
+{
+    text-align: center;
+}
